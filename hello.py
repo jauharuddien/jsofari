@@ -1,0 +1,1 @@
+print "Hai selamat datang"
